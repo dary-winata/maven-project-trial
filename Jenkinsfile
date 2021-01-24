@@ -1,2 +1,3 @@
-@Library('jenkins-library@master')_
-maven()
+pipeline {
+    agent any
+}
