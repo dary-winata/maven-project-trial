@@ -1,2 +1,2 @@
-@Library('ssjenkins-library@master')_
+@Library('jenkins-library@master')_
 maven()
